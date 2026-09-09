@@ -91,6 +91,11 @@ The backend dataset structures and feeds five distinct data validation matrices:
 * **Old:** 96 No | **32 Yes** *(Significant retention collapse)*
 
 ---
+### Dashboard
+
+<img width="743" height="309" alt="Dashboard" src="https://github.com/user-attachments/assets/e69e2463-70f1-446f-8564-bac230b84cfa" />
+
+---
 
 ## How to Interface with the Dashboard
 1. Clone this repository using your preferred command-line interface:
