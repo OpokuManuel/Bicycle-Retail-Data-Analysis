@@ -12,3 +12,11 @@ Based on the programmatic synthesis of the data modeling matrix, the final dashb
 ---
 ## Dataset Used
 - <a href="https://github.com/OpokuManuel/Bicycle-Retail-Data-Analysis/blob/main/Bicycle_Retail_Performance.xlsx">Bicycle Data </a>
+
+## 🛠️ Data Architecture & Tech Stack
+* **Storage Engine:** Excel OpenXML Spreadsheet Structure (`.xlsx`)
+* **ETL Pipeline:** **Power Query** (Used for schema standardization, text expansion, and variable-bucket clustering).
+* **Data Modeling:** **Power Pivot** (Enforcing structural logic and cross-attribute profiling).
+* **Visualization Layer:** Dynamic PivotTables, Integrated Slicers, and Grouped Performance Deltas.
+
+---
