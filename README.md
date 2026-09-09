@@ -1,4 +1,5 @@
-## Project Overview
+# Bicycle Retail Data Analysis (Interactive Dashboard created using MS Excel)
+## Project Objective
 This project transforms raw consumer transactional pipelines into an interactive **Bicycle Retail Performance & Customer Segmentation Dashboard**. Utilizing a database of 538 distinct consumer profiles across Europe, North America, and the Pacific regions, the project maps demographic behavior, commuting obstacles, and wealth brackets to isolate the exact variables that drive a customer to purchase a bicycle.
 
 ## Key Project Metrics (KPIs) & Findings
