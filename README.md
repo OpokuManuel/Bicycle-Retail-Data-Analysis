@@ -2,7 +2,7 @@
 ## Project Objective
 This project transforms raw consumer transactional pipelines into an interactive **Bicycle Retail Performance & Customer Segmentation Dashboard**. Utilizing a database of 538 distinct consumer profiles across Europe, North America, and the Pacific regions, the project maps demographic behavior, commuting obstacles, and wealth brackets to isolate the exact variables that drive a customer to purchase a bicycle.
 
-### Key Project Metrics (KPIs) & Findings
+## Key Project Metrics (KPIs) & Findings
 Based on the programmatic synthesis of the data modeling matrix, the final dashboard monitors several key performance indicators:
 * **Target Audience Sweet Spot:** **Middle-Aged consumers** represent the core buying engine, capturing **185 out of the 231 total bike sales** (80.1%). 
 * **The Income Gap:** Across all demographics, buyers possess a higher average income (**\$60,346**) compared to non-buyers (**\$57,491**).
@@ -10,3 +10,5 @@ Based on the programmatic synthesis of the data modeling matrix, the final dashb
 * **Vehicle Clutter Correlation:** Individuals who do not buy a bicycle own a higher average number of cars (**1.64 cars**) compared to those who do (**1.13 cars**).
 
 ---
+## Dataset Used
+- <a href="https://github.com/OpokuManuel/Bicycle-Retail-Data-Analysis/blob/main/Bicycle_Retail_Performance.xlsx">Bicycle Data </a>
